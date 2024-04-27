@@ -23,11 +23,11 @@ Adapt paths as needed based on your system configuration.
 
 Execute the necessary commands/batch file for the desired output. 
 
+```
+DEVELOPED BY :Aishwarya S
+REG NO : 212222100003
+```
 ## WINDOWS COMMANDS :
-
-### DEVELOPED BY :Aishwarya S
-### REG NO : 212222100003
-
 ## Exercise 1: Basic Directory and File Operations
 
 Create a directory named "MyLab" on the desktop.
